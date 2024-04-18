@@ -1,0 +1,9 @@
+{
+	"name": "harryassignment2",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f244e27-880f-40bd-94ff-364b1f56b9d8",
+		"tenantId": "54efe58d-72b7-45af-9a01-30ee5f377a71"
+	}
+}
